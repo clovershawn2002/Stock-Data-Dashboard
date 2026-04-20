@@ -1,0 +1,1 @@
+Built an end-to-end stock market data pipeline using Python, Excel, and Power BI. Collected and cleaned real-time and historical stock data for 5 companies — Apple, Amazon, Google, NVIDIA, and Tesla — structured it in Excel, modeled relationships in Power BI, and built an interactive dashboard that updates automatically every day at 10 AM.
